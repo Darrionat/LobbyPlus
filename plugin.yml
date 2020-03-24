@@ -1,0 +1,8 @@
+name: LobbyPlus
+version: 1.4.2
+author: Darrionat
+main: me.Darrionat.LobbyPlus.Main
+api-version: 1.13
+commands:
+  lobbyplus:
+    usage: </command>
